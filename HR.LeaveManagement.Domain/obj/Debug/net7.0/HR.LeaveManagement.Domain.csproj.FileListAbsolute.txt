@@ -1,0 +1,12 @@
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/bin/Debug/net7.0/HR.LeaveManagement.Domain.deps.json
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/bin/Debug/net7.0/HR.LeaveManagement.Domain.dll
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/bin/Debug/net7.0/HR.LeaveManagement.Domain.pdb
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.AssemblyInfo.cs
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.dll
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/refint/HR.LeaveManagement.Domain.dll
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/HR.LeaveManagement.Domain.pdb
+/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Domain/obj/Debug/net7.0/ref/HR.LeaveManagement.Domain.dll
