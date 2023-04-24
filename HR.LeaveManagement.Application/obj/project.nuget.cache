@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LALkifWy26kuF5mpQXtnuxhEcvYAZhbdAnACZ7wbjoGDkoWaIsuGN2vlKtG/p+LvMN+uz+uPlm6xnfigtKR1eQ==",
+  "dgSpecHash": "iVYwZamqOXIl/IDDaKs+l3n14mPCx+yICRLy4r2PdaF75oM4i4+UCrfwoqM4hb3wrGtxll6k2udmQxdiADgZ3g==",
   "success": true,
   "projectFilePath": "/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/leultefera/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

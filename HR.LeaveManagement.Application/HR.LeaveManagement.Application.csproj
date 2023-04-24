@@ -9,12 +9,19 @@
   <ItemGroup>
     <None Remove="Persistence\" />
     <None Remove="Persistence\Contracts\" />
+    <None Remove="Profiles\" />
+    <None Remove="DTOS\Common\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
     <Folder Include="Persistence\Contracts\" />
+    <Folder Include="Profiles\" />
+    <Folder Include="DTOs\Common\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
   </ItemGroup>
 </Project>
