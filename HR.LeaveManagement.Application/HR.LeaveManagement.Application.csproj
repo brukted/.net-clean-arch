@@ -26,6 +26,9 @@
     <None Remove="Features\LeaveAllocation\Handlers\Queries\" />
     <None Remove="Features\LeaveAllocation\Requests\Commands\" />
     <None Remove="Features\LeaveAllocation\Requests\Queries\" />
+    <None Remove="Features\LeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Handlers\" />
+    <None Remove="Features\LeaveRequest\Requests\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
@@ -47,6 +50,9 @@
     <Folder Include="Features\LeaveAllocation\Handlers\Queries\" />
     <Folder Include="Features\LeaveAllocation\Requests\Commands\" />
     <Folder Include="Features\LeaveAllocation\Requests\Queries\" />
+    <Folder Include="Features\LeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Handlers\" />
+    <Folder Include="Features\LeaveRequest\Requests\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
