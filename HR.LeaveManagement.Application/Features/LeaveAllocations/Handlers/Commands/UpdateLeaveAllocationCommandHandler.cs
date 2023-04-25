@@ -8,10 +8,10 @@ namespace HR.LeaveManagement.Application.Features.LeaveAllocations.Handlers.Comm
 {
     public class UpdateLeaveAllocationCommandHandler : IRequestHandler<UpdateLeaveAllocationCommand, Unit>
     {
-        private readonly ILeaveAllocationRepository _leaveAllocationRepository;
+        private readonly ILeaveRequestRepository _leaveAllocationRepository;
         private readonly IMapper _mapper;
 
-        public UpdateLeaveAllocationCommandHandler(ILeaveAllocationRepository leaveAllocationRepository, IMapper mapper)
+        public UpdateLeaveAllocationCommandHandler(ILeaveRequestRepository leaveAllocationRepository, IMapper mapper)
         {
             _leaveAllocationRepository = leaveAllocationRepository;
             _mapper = mapper;
