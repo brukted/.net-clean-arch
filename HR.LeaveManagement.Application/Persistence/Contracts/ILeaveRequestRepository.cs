@@ -3,7 +3,7 @@ using HR.LeaveManagement.Domain;
 
 namespace HR.LeaveManagement.Application.Persistence.Contracts
 {
-    public interface ILeaveAllocationRepository : IGenericRepository<LeaveRequest>
+    public interface ILeaveRequestRepository : IGenericRepository<LeaveRequest>
     {
     }
 }
