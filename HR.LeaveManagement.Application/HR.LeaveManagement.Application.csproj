@@ -19,6 +19,13 @@
     <None Remove="Features\LeaveType\Requests\" />
     <None Remove="Features\LeaveType\Requests\Commands\" />
     <None Remove="Features\LeaveType\Requests\Queries\" />
+    <None Remove="Features\LeaveAllocation\" />
+    <None Remove="Features\LeaveAllocation\Handlers\" />
+    <None Remove="Features\LeaveAllocation\Requests\" />
+    <None Remove="Features\LeaveAllocation\Handlers\Commands\" />
+    <None Remove="Features\LeaveAllocation\Handlers\Queries\" />
+    <None Remove="Features\LeaveAllocation\Requests\Commands\" />
+    <None Remove="Features\LeaveAllocation\Requests\Queries\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
@@ -33,6 +40,13 @@
     <Folder Include="Features\LeaveType\Requests\" />
     <Folder Include="Features\LeaveType\Requests\Commands\" />
     <Folder Include="Features\LeaveType\Requests\Queries\" />
+    <Folder Include="Features\LeaveAllocation\" />
+    <Folder Include="Features\LeaveAllocation\Handlers\" />
+    <Folder Include="Features\LeaveAllocation\Requests\" />
+    <Folder Include="Features\LeaveAllocation\Handlers\Commands\" />
+    <Folder Include="Features\LeaveAllocation\Handlers\Queries\" />
+    <Folder Include="Features\LeaveAllocation\Requests\Commands\" />
+    <Folder Include="Features\LeaveAllocation\Requests\Queries\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
