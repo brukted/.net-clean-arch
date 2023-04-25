@@ -19,16 +19,19 @@
     <None Remove="Features\LeaveType\Requests\" />
     <None Remove="Features\LeaveType\Requests\Commands\" />
     <None Remove="Features\LeaveType\Requests\Queries\" />
-    <None Remove="Features\LeaveAllocation\" />
     <None Remove="Features\LeaveAllocation\Handlers\" />
     <None Remove="Features\LeaveAllocation\Requests\" />
     <None Remove="Features\LeaveAllocation\Handlers\Commands\" />
     <None Remove="Features\LeaveAllocation\Handlers\Queries\" />
     <None Remove="Features\LeaveAllocation\Requests\Commands\" />
     <None Remove="Features\LeaveAllocation\Requests\Queries\" />
-    <None Remove="Features\LeaveRequest\" />
     <None Remove="Features\LeaveRequest\Handlers\" />
     <None Remove="Features\LeaveRequest\Requests\" />
+    <None Remove="DTOs\LeaveAllocation\" />
+    <None Remove="DTOs\LeaveRequest\" />
+    <None Remove="DTOs\LeaveType\" />
+    <None Remove="Features\LeaveRequests\Requests\Commands\" />
+    <None Remove="Features\LeaveRequests\Handlers\Commands\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
@@ -36,23 +39,26 @@
     <Folder Include="Profiles\" />
     <Folder Include="DTOs\Common\" />
     <Folder Include="Features\" />
-    <Folder Include="Features\LeaveType\" />
-    <Folder Include="Features\LeaveType\Handlers\" />
-    <Folder Include="Features\LeaveType\Handlers\Queries\" />
-    <Folder Include="Features\LeaveType\Handlers\Commands\" />
-    <Folder Include="Features\LeaveType\Requests\" />
-    <Folder Include="Features\LeaveType\Requests\Commands\" />
-    <Folder Include="Features\LeaveType\Requests\Queries\" />
-    <Folder Include="Features\LeaveAllocation\" />
-    <Folder Include="Features\LeaveAllocation\Handlers\" />
-    <Folder Include="Features\LeaveAllocation\Requests\" />
-    <Folder Include="Features\LeaveAllocation\Handlers\Commands\" />
-    <Folder Include="Features\LeaveAllocation\Handlers\Queries\" />
-    <Folder Include="Features\LeaveAllocation\Requests\Commands\" />
-    <Folder Include="Features\LeaveAllocation\Requests\Queries\" />
-    <Folder Include="Features\LeaveRequest\" />
-    <Folder Include="Features\LeaveRequest\Handlers\" />
-    <Folder Include="Features\LeaveRequest\Requests\" />
+    <Folder Include="Features\LeaveTypes\" />
+    <Folder Include="Features\LeaveTypes\Handlers\" />
+    <Folder Include="Features\LeaveTypes\Handlers\Queries\" />
+    <Folder Include="Features\LeaveTypes\Handlers\Commands\" />
+    <Folder Include="Features\LeaveTypes\Requests\" />
+    <Folder Include="Features\LeaveTypes\Requests\Commands\" />
+    <Folder Include="Features\LeaveTypes\Requests\Queries\" />
+    <Folder Include="Features\LeaveAllocations\Handlers\" />
+    <Folder Include="Features\LeaveAllocations\Requests\" />
+    <Folder Include="Features\LeaveAllocations\Handlers\Commands\" />
+    <Folder Include="Features\LeaveAllocations\Handlers\Queries\" />
+    <Folder Include="Features\LeaveAllocations\Requests\Commands\" />
+    <Folder Include="Features\LeaveAllocations\Requests\Queries\" />
+    <Folder Include="Features\LeaveRequests\Handlers\" />
+    <Folder Include="Features\LeaveRequests\Requests\" />
+    <Folder Include="DTOs\LeaveAllocation\" />
+    <Folder Include="DTOs\LeaveRequest\" />
+    <Folder Include="DTOs\LeaveType\" />
+    <Folder Include="Features\LeaveRequests\Requests\Commands\" />
+    <Folder Include="Features\LeaveRequests\Handlers\Commands\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
