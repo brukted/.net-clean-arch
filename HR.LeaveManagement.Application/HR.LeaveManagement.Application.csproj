@@ -11,17 +11,34 @@
     <None Remove="Persistence\Contracts\" />
     <None Remove="Profiles\" />
     <None Remove="DTOS\Common\" />
+    <None Remove="Features\" />
+    <None Remove="Features\LeaveType\" />
+    <None Remove="Features\LeaveType\Handlers\" />
+    <None Remove="Features\LeaveType\Handlers\Queries\" />
+    <None Remove="Features\LeaveType\Handlers\Commands\" />
+    <None Remove="Features\LeaveType\Requests\" />
+    <None Remove="Features\LeaveType\Requests\Commands\" />
+    <None Remove="Features\LeaveType\Requests\Queries\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
     <Folder Include="Persistence\Contracts\" />
     <Folder Include="Profiles\" />
     <Folder Include="DTOs\Common\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\LeaveType\" />
+    <Folder Include="Features\LeaveType\Handlers\" />
+    <Folder Include="Features\LeaveType\Handlers\Queries\" />
+    <Folder Include="Features\LeaveType\Handlers\Commands\" />
+    <Folder Include="Features\LeaveType\Requests\" />
+    <Folder Include="Features\LeaveType\Requests\Commands\" />
+    <Folder Include="Features\LeaveType\Requests\Queries\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
   </ItemGroup>
 </Project>

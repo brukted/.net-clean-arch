@@ -1,0 +1,12 @@
+﻿using System;
+using HR.LeaveManagement.Application.DTOs;
+using MediatR;
+
+namespace HR.LeaveManagement.Application.Features.LeaveType.Requests
+{
+    public class GetLeaveTypeDetailRequest : IRequest<LeaveTypeDto>
+    {
+        public int Id { get; set; }
+    }
+}
+
