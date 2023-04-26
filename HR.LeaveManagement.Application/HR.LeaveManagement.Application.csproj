@@ -37,6 +37,8 @@
     <None Remove="Responses\" />
     <None Remove="Contracts\" />
     <None Remove="Contracts\Persistence\" />
+    <None Remove="Contracts\Infrastructure\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Profiles\" />
@@ -69,6 +71,8 @@
     <Folder Include="Responses\" />
     <Folder Include="Contracts\" />
     <Folder Include="Contracts\Persistence\" />
+    <Folder Include="Contracts\Infrastructure\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
