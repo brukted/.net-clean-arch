@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9eFHvnA/HZ5aCge26SYL6frwkYHKLNwfMBAjQ7wE53FcjiiFpA8pjYvA3WBuXjBmq81bNIMUwr73jczxscnvmQ==",
+  "dgSpecHash": "QnT7lNNW8vSddPrtAgDRLCKv2k7ZwiQMeousfS5l2z4fUGCJ0n3tv7Dq7J2lEk4OG74HcH6aMLogMrwAnR30Nw==",
   "success": true,
   "projectFilePath": "/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "/Users/leultefera/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.2/fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
