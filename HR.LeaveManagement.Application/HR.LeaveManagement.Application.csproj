@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Persistence\" />
-    <None Remove="Persistence\Contracts\" />
     <None Remove="Profiles\" />
     <None Remove="DTOS\Common\" />
     <None Remove="Features\" />
@@ -37,10 +35,10 @@
     <None Remove="DTOs\LeaveAllocation\Validators\" />
     <None Remove="Exceptions\" />
     <None Remove="Responses\" />
+    <None Remove="Contracts\" />
+    <None Remove="Contracts\Persistence\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Persistence\" />
-    <Folder Include="Persistence\Contracts\" />
     <Folder Include="Profiles\" />
     <Folder Include="DTOs\Common\" />
     <Folder Include="Features\" />
@@ -69,6 +67,8 @@
     <Folder Include="DTOs\LeaveAllocation\Validators\" />
     <Folder Include="Exceptions\" />
     <Folder Include="Responses\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="Contracts\Persistence\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
