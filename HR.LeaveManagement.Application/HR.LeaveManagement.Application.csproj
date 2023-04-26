@@ -35,6 +35,8 @@
     <None Remove="DTOs\LeaveType\Validators\" />
     <None Remove="DTOs\LeaveRequest\Validators\" />
     <None Remove="DTOs\LeaveAllocation\Validators\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Responses\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />
@@ -65,6 +67,8 @@
     <Folder Include="DTOs\LeaveType\Validators\" />
     <Folder Include="DTOs\LeaveRequest\Validators\" />
     <Folder Include="DTOs\LeaveAllocation\Validators\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Responses\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
