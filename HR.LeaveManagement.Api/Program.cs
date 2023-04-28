@@ -1,4 +1,6 @@
-﻿using HR.LeaveManagement.Application;
+﻿using System.Reflection;
+using HR.LeaveManagement.Api.Controllers;
+using HR.LeaveManagement.Application;
 using HR.LeaveManagement.Infrastructure;
 using HR.LeaveManagement.Persistence;
 using Microsoft.Extensions.Configuration;
