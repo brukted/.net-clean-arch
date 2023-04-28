@@ -22,8 +22,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Repositories\" />
+    <None Remove="Configurations\" />
+    <None Remove="Configurations\Entites\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Configurations\Entities\" />
   </ItemGroup>
 </Project>
