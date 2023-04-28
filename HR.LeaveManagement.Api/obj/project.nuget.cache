@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2MzzH8PQjwjFPEPdbF982FIbbfAoXb+WuQJ/h5VCiB8MmlWa44Y7KbkoBM3WpWVlqgqFG/u3Zs313RTulZYxzg==",
+  "dgSpecHash": "ABblOqcDSKyU393yL83FXjfl5z4Qnuev72jJbFYi3zuMSeVXbolOxV8YF2PeCHt+c5SXXDCM7i68fO0aNP8cLw==",
   "success": true,
   "projectFilePath": "/Users/leultefera/Projects/HR.LeaveManagement/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "/Users/leultefera/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/leultefera/.nuget/packages/mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2/mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/leultefera/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",

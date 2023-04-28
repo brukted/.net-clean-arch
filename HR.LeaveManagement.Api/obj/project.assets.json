@@ -161,6 +161,19 @@
           "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "MediatR.Extensions.Microsoft.DependencyInjectionFixed/5.1.2": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "5.1.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "MessagePack/2.1.152": {
         "type": "package",
         "dependencies": {
@@ -4126,7 +4139,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "FluentValidation.DependencyInjectionExtensions": "11.5.2",
           "HR.LeaveManagement.Domain": "1.0.0",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0"
+          "MediatR": "12.0.1",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "MediatR.Extensions.Microsoft.DependencyInjectionFixed": "5.1.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
         },
         "compile": {
           "bin/placeholder/HR.LeaveManagement.Application.dll": {}
@@ -4347,6 +4363,18 @@
         "lib/netstandard2.1/MediatR.Extensions.Microsoft.DependencyInjection.dll",
         "mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
         "mediatr.extensions.microsoft.dependencyinjection.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjectionFixed/5.1.2": {
+      "sha512": "93OmjCwew097+bxLSA9xJavQ0AYhHDmZDeh2Q09rxCuTeO9SKc/gtQledr0s42vHfl5yFgTRaffyMYG+989c2w==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjectionfixed.nuspec"
       ]
     },
     "MessagePack/2.1.152": {
